@@ -1,4 +1,4 @@
-## Snake game 🐍 
+## 🐍 Snake game 
 
 
 <p align="center">
